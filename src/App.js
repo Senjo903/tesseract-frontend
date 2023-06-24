@@ -3,7 +3,7 @@ import "./App.css";
 import TodoList from "./components/TodoList";
 
 function App() {
-  // hi
+  // hi!!
   return (
     <div className="todo-app">
       <TodoList />
